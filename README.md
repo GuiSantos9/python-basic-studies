@@ -26,15 +26,15 @@ Fundamentos de Dados
 
 [✅] Python Casting - Convertendo tipos de dados.
 
-[ ] Python Booleans - Valores Verdadeiro ou Falso.
+[✅] Python Booleans - Valores Verdadeiro ou Falso.
 
-[ ] Python None - Entendendo o valor nulo.
+[✅] Python None - Entendendo o valor nulo.
 
 Manipulação de Texto e Operações
 
-[ ] Python Strings - Métodos, f-strings e fatiamento.
+[✅] Python Strings - Métodos, f-strings e fatiamento.
 
-[ ] Python String Formatting - Formatação avançada de textos.
+[✅] Python String Formatting - Formatação avançada de textos.
 
 [ ] Python Operators - Aritméticos, lógicos e de comparação.
 
