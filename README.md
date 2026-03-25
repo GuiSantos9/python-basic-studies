@@ -36,7 +36,7 @@ Manipulação de Texto e Operações
 
 [✅] Python String Formatting - Formatação avançada de textos.
 
-[ ] Python Operators - Aritméticos, lógicos e de comparação.
+[✅] Python Operators - Aritméticos, lógicos e de comparação.
 
 [ ] Python Math - Funções matemáticas integradas.
 
