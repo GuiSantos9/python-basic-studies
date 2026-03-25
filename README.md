@@ -38,7 +38,7 @@ Manipulação de Texto e Operações
 
 [✅] Python Operators - Aritméticos, lógicos e de comparação.
 
-[ ] Python Math - Funções matemáticas integradas.
+[✅] Python Math - Funções matemáticas integradas.
 
 Coleções (Estruturas de Dados)
 
