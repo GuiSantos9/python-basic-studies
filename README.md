@@ -42,7 +42,7 @@ Manipulação de Texto e Operações
 
 Coleções (Estruturas de Dados)
 
-[ ] Python Lists - Listas mutáveis e ordenadas.
+[✅] Python Lists - Listas mutáveis e ordenadas.
 
 [ ] Python Tuples - Tuplas imutáveis.
 
