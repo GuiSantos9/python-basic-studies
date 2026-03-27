@@ -48,7 +48,7 @@ Coleções (Estruturas de Dados)
 
 [✅] Python Sets - Conjuntos não ordenados.
 
-[ ] Python Dictionaries - Estruturas Chave-Valor.
+[✅] Python Dictionaries - Estruturas Chave-Valor.
 
 [ ] Python Arrays - Uso de arrays em Python.
 
