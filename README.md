@@ -44,9 +44,9 @@ Coleções (Estruturas de Dados)
 
 [✅] Python Lists - Listas mutáveis e ordenadas.
 
-[ ] Python Tuples - Tuplas imutáveis.
+[✅] Python Tuples - Tuplas imutáveis.
 
-[ ] Python Sets - Conjuntos não ordenados.
+[✅] Python Sets - Conjuntos não ordenados.
 
 [ ] Python Dictionaries - Estruturas Chave-Valor.
 
