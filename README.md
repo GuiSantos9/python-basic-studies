@@ -54,9 +54,9 @@ Coleções (Estruturas de Dados)
 
 Controle de Fluxo e Lógica
 
-[ ] Python If...Else - Condicionais simples e compostas.
+[✅] Python If...Else - Condicionais simples e compostas.
 
-[ ] Python Match - Controle de fluxo estruturado (Switch/Case).
+[✅] Python Match - Controle de fluxo estruturado (Switch/Case).
 
 [ ] Python While Loops - Laços de repetição por condição.
 
