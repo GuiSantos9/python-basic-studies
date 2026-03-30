@@ -58,11 +58,11 @@ Controle de Fluxo e Lógica
 
 [✅] Python Match - Controle de fluxo estruturado (Switch/Case).
 
-[ ] Python While Loops - Laços de repetição por condição.
+[✅] Python While Loops - Laços de repetição por condição.
 
-[ ] Python For Loops - Iteração sobre sequências.
+[✅] Python For Loops - Iteração sobre sequências.
 
-[ ] Python Range - Gerando sequências numéricas.
+[✅] Python Range - Gerando sequências numéricas.
 
 Funções e Modularização
 

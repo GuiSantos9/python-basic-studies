@@ -1,3 +1,4 @@
+#É o switch case do Python
 # O comando match é usado para executar diferentes ações com base 
 # em diferentes condições.
 # Em vez de escrever muitas declarações if..elif..else, você 
