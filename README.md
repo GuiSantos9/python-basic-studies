@@ -50,7 +50,7 @@ Coleções (Estruturas de Dados)
 
 [✅] Python Dictionaries - Estruturas Chave-Valor.
 
-[ ] Python Arrays - Uso de arrays em Python.
+[✅] Python Arrays - Uso de arrays em Python.
 
 Controle de Fluxo e Lógica
 
