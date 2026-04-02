@@ -56,8 +56,8 @@ else:
   print("Positive value")
 
 
-#Em outros contxtos 
+#Em outros contextos 
 def calculate_discount(price):
-  pass # TODO: Implement discount logic
+  pass # TODO: Implementa logica de desconto
 
-# Function exists but doesn't do anything yet
+#
