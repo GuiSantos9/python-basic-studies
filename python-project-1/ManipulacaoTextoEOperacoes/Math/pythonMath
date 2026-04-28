@@ -1,0 +1,51 @@
+# O Python possui um conjunto de funções matemáticas integradas (built-in), 
+# incluindo um extenso módulo de matemática (math), que permite realizar 
+# tarefas matemáticas em números.
+
+#Funções integradas
+#As funções min() e max() permitem encontrar os valores minimos e maximos 
+x = min(5,10,15)
+y = max(5,10,15)
+
+print(x)
+print(y)
+
+
+#A função abs() retorna o valor absoluto(positivo) de um numero específicado
+x = abs(-7.35)
+
+print(x)
+
+#A função pow(x ,y) retorna o valor de x elevado a pontencia de y (x^y)
+x = pow(4 ,3) # (4 * 4 * 4)
+print(x)
+
+#Modulo matemático
+#Python também tem um modulo integrado chamado math, que amplia a lista
+#de funções matemáticas
+
+#Para usa-la temos que importar o modulo matematico
+import math
+
+#Quando importarmos o modulo podemos usar os metodos e constantos desse modulo
+#O metodo math.sqrt() por exemplo retorna a raiz quadrada de um numero
+
+x = math.sqrt(64)
+
+print(x)
+
+# O método math.ceil() arredonda um número para cima para o número inteiro 
+# mais próximo, e o método math.floor() arredonda um número para baixo 
+# para o número inteiro mais próximo, e retorna o resultado:
+
+x = math.ceil(1.4)
+y = math.floor(1.4)
+
+print(x) #retorna 2
+print(y) #retorna 1
+
+#A constante math.pi retorna o valor de pi(3,14...)
+
+x = math.pi
+
+print(x)
